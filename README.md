@@ -8,7 +8,7 @@ I'm based in Ukraine and currently focusing on backend development with a strong
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,css,html,js,maven,idea,visualstudio,pycharm,mysql,postgres,git,github,gitlab&perline=8)](https://skillicons.dev)
+java,spring,cs,css,html,js,maven,idea,visualstudio,pycharm,mysql,postgres,git,github,gitlab
 
 ## Top Projects
 
@@ -20,10 +20,10 @@ I'm based in Ukraine and currently focusing on backend development with a strong
 - [MyFlix21](https://github.com/usernamedudh/MyFlix21): A project for a mini streaming platform. ⭐️ 0 | Language: Java | Issues: 0
 
 ## GitHub Stats
+
 Public Repositories: 44 | Followers: 2 | Following: 1 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usernamedudh&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usernamedudh&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Activity
 
