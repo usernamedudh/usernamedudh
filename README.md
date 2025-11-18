@@ -12,11 +12,12 @@ I'm based in Ukraine and currently focusing on backend development with a strong
 
 ## Top Projects
 
-[![37.1.-Servlet-API](https://github-readme-stats.vercel.app/api/pin/?username=usernamedudh&repo=37.1.-Servlet-API&theme=dark)](https://github.com/usernamedudh/37.1.-Servlet-API)
-[![interactive-calculator](https://github-readme-stats.vercel.app/api/pin/?username=usernamedudh&repo=interactive-calculator&theme=dark)](https://github.com/usernamedudh/interactive-calculator)
-[![33.1.-Client-Server-Program](https://github-readme-stats.vercel.app/api/pin/?username=usernamedudh&repo=33.1.-Client-Server-Program&theme=dark)](https://github.com/usernamedudh/33.1.-Client-Server-Program)
-[![CoffeeOrderBoard](https://github-readme-stats.vercel.app/api/pin/?username=usernamedudh&repo=CoffeeOrderBoard&theme=dark)](https://github.com/usernamedudh/CoffeeOrderBoard)
-[![31.1.-We-are-implementing-the-Library-program](https://github-readme-stats.vercel.app/api/pin/?username=usernamedudh&repo=31.1.-We-are-implementing-the-Library-program&theme=dark)](https://github.com/usernamedudh/31.1.-We-are-implementing-the-Library-program)
+- [19.1.-Implementation-of-sorting-and-searching-algorithms-using-arrays](https://github.com/usernamedudh/19.1.-Implementation-of-sorting-and-searching-algorithms-using-arrays): Project implementing sorting and searching algorithms using arrays. ⭐️ 0 | Language: Java | Issues: 0
+- [20.1.-Working-with-graphs](https://github.com/usernamedudh/20.1.-Working-with-graphs): Project demonstrating working with graph structures. ⭐️ 0 | Language: Java | Issues: 0
+- [21.1.-Java-annotation-wiki](https://github.com/usernamedudh/21.1.-Java-annotation-wiki): A wiki project about Java annotations. ⭐️ 0 | Language: Java | Issues: 0
+- [25.1.-Factory-Method-pattern-wiki](https://github.com/usernamedudh/25.1.-Factory-Method-pattern-wiki): A project demonstrating the Factory Method design pattern. ⭐️ 0 | Language: Java | Issues: 0
+- [28.1.-Working-with-a-database-SELECT-LIMIT-SUM-GROUP-BY](https://github.com/usernamedudh/28.1.-Working-with-a-database-SELECT-LIMIT-SUM-GROUP-BY): Database project using SELECT, LIMIT, SUM, and GROUP BY queries. ⭐️ 0 | Language: SQL | Issues: 0
+- [MyFlix21](https://github.com/usernamedudh/MyFlix21): A project for a mini streaming platform. ⭐️ 0 | Language: Java | Issues: 0
 
 ## GitHub Stats
 Public Repositories: 44 | Followers: 2 | Following: 1 
